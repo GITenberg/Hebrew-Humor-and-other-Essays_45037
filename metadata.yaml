@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '43042'
     url: http://www.gutenberg.org/2009/agents/43042
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45037#Hebrew-Humor-and-other-Essays
 gutenberg_issued: '2014-02-28'
 gutenberg_type: Text
 identifiers:
