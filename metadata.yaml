@@ -1,0 +1,37 @@
+_repo: Hebrew-Humor-and-other-Essays_45037
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Chotzner, J. (Joseph)
+    alias: Chotzner, Joseph
+    birthdate: 1844
+    deathdate: 1914
+    gutenberg_agent_id: '43042'
+    url: http://www.gutenberg.org/2009/agents/43042
+description: ''
+gutenberg_issued: '2014-02-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45037'
+  lccn: 08021020
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PJ'
+- !lcsh 'Hebrew wit and humor -- History and criticism'
+tableOfContents: Humour of the Bible -- The Bible and the ancient classics -- Art
+  among the ancient Hebrews -- The life of the Hebrew women of old -- Curiosities
+  of certain proper names in the Bible -- Sketch of the Talmud -- The humour of some
+  mediaeval and modern Hebrew writers -- Yedaya Bedaresi, a fourteenth-century Hebrew
+  poet and philosopher -- Immanuel di Roma, a thirteenth-century Hebrew humorist,
+  and a friend of Dante -- Kalonymos ben Kalonymos, a thirteenth-century satirist
+  -- Abraham ibn Chasdai, and his book "The Prince and the Dervish" -- Isaac Erter,
+  a modern Hebrew humorist -- Leopold Zunz -- Samuel David Luzzato and Zachariah Frankel
+  -- The influence of Hebrew literature on Heinrich Heine -- Modern Hebrew journalism.
+title: Hebrew Humor and Other Essays
+url: http://www.gutenberg.org/ebooks/45037
